@@ -8,7 +8,7 @@ In this jupyter notebook, I have taken dataset from ![here](https://github.com/C
 
 ### Total no. of Deaths Worldwide plotted daily for the month of Nov 2021, Dec 2021 and Jan 2022
 
-![](Plot-Total-no-of-Deaths.png)
+![](Plot-Total-no-of-deaths.png)
 
 ### Total Deaths vs Total Confirmed Cases Worldwide plotted daily for the month of Nov 2021, Dec 2021 and Jan 2022
 
